@@ -1,2 +1,2 @@
-# PolinaSokolova.github.io
+# SokolovaPolina.github.io
 web
